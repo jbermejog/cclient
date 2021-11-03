@@ -1,2 +1,3 @@
 "# cclient" 
-Inicio
+Aplicación demo para asignatura scrum
+
